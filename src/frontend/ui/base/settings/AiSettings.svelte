@@ -30,7 +30,7 @@
           id: "model",
           type: "dropdown",
           value: "",
-          options: ["GPT-3.5", "GPT-4"],
+          options: ["GPT-3.5", "GPT-4", "GPT-4 Turbo"],
         },
       ],
     },

@@ -1,4 +1,4 @@
-const { writable } = require('svelte/store');
+onst { writable } = require('svelte/store');
 const App = require('./App.svelte').default;
 
 const media = writable({});
