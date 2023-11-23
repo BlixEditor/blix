@@ -1,39 +1,40 @@
 <p align="center">
+<br />
 <img alt="" src="https://raw.githubusercontent.com/COS301-SE-2023/AI-Photo-Editor/master/docs/pics/blix.svg" width="180px">
 <br />
+<br />
 <i>(AKA. AI Photo Editor)</i>
+<br />
+<br />
 </p>
 
-[![codecov](https://codecov.io/gh/COS301-SE-2023/AI-Photo-Editor/branch/master/graph/badge.svg?token=7T6WCYXEIO)](https://codecov.io/gh/COS301-SE-2023/AI-Photo-Editor)
-[![Build Codebase](https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/build.yml/badge.svg)](https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/build.yml)
-[![Lint Codebase](https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/lint.yml/badge.svg)](https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/lint.yml)
-[![Test Codebase](https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/coverage.yml/badge.svg)](https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/coverage.yml)
-
-<!---------------------------------- TABLE OF CONTENTS ---------------------------------->
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
-
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol style="list-style: none">
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#documentation">Documentation</a></li>
-    <li><a href="#demos">Demos</a></li>
-    <li><a href="#technologies">Technologies</a></li>
-    <li><a href="#team">Team</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-<img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<p align="center">
+<a href="https://codecov.io/gh/COS301-SE-2023/AI-Photo-Editor">
+    <img alt="Coverage" src="https://codecov.io/gh/COS301-SE-2023/AI-Photo-Editor/branch/master/graph/badge.svg?token=7T6WCYXEIO">
+</a>
+<a href="https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/build.yml">
+    <img alt="Build" src="https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/build.yml/badge.svg">
+</a>
+<a href="https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/lint.yml">
+    <img alt="Lint" src="https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/lint.yml/badge.svg">
+</a>
+<a href="https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/coverage.yml">
+    <img alt="Test" src="https://github.com/COS301-SE-2023/AI-Photo-Editor/actions/workflows/coverage.yml/badge.svg">
+</a>
+</p>
 
 <!--------------------------------------- OVERVIEW -------------------------------------->
 <h2 id="overview"> :cloud: Overview</h2>
 <p>
   Blix is a cross-platform desktop application designed to give users a
   powerful and intuitive photo editing experience. It provides a composable
-  node-based system that provides a common ground to facilitate collaborative
-  human/AI photo editing workflow.
+  node-based system that establishes a common ground to facilitate collaborative
+  human/AI photo editing workflows.
 <p>
+
+<p align="center">
+	<img alt="Image 1" src="https://raw.githubusercontent.com/COS301-SE-2023/AI-Photo-Editor/master/docs/pics/demo-image-1.png" height="auto" width="800">
+</p>
 
 <img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
@@ -41,45 +42,32 @@
 <h2 id="documentation"> :blue_book: Documentation</h2>
 
 <h3>Software Requirement Specification</h3>
-<a href="https://drive.google.com/file/d/1ATjzOak-0K-Q_kudSD9OEBIK9wS2q4Gy/view?usp=sharing">SRSv1</a>
-
-<a href="https://drive.google.com/file/d/1PUAM4CS4qMLwbHv37kl86bTaVbaIDlLZ/view?usp=sharing">SRSv2</a>
-
-<a href="https://drive.google.com/file/d/1XgHfZQaj9rpDhAZWE6s_zF1wM1EhKIRY/view?usp=sharing">SRSv3</a>
-
-
+<a href="https://drive.google.com/drive/folders/1GZKHobQARi-2YzsywifolR_pFYL3Cvqb?usp=sharing">SRS Documents</a>
 
 <h3>Software Architecture</h3>
-<a href="https://drive.google.com/file/d/1vXylz_2AGhIbI3x6IT7RJHlcIxV7ydWe/view?usp=sharing">Software Architecture v1</a>
+<a href="https://drive.google.com/drive/folders/1SNnfC44DCIFK5kD5LkyoEbxfRvr8g_CS?usp=sharing">Software Architectures</a>
 
-<a href="https://drive.google.com/file/d/1ux78JlX2uZjZg3gL4HwTCUpflXp9-cwP/view?usp=sharing">Software Architecture v2</a>
+<br>
 
-
-
-<h3>Extras</h3>
-<a href="https://drive.google.com/file/d/1KSBoSISRutLugk6KTDuSiBa4gBeDqJEq/view?usp=sharing">Coding Standards</a>
-
-
-<a href="https://drive.google.com/file/d/141GD2XQz7EbAA--MKQ5w9Yfh9zRA05ss/view?usp=sharing">User Manual v1</a>
-
-<a href="https://drive.google.com/file/d/1sLkLUSyI9LsDfnfzGExk_df6zPMu-HNL/view?usp=sharing">User Manual v2</a>
-
-<a href="https://drive.google.com/file/d/1bwBXHYIPah-2zh5x2d9cTLVaji_K4UI2/view?usp=sharing">Installation Manual v1</a>
-
-<h3>Contributions</h3>
-<a href="https://drive.google.com/file/d/1ewItSWd0Ag0mQbVnYTd4y8H6PclSpRNi/view?usp=sharing">Documentation Contributions</a>
-
-<h3>Project Management</h3>
-<a href="https://github.com/orgs/COS301-SE-2023/projects/15">Project Board</a>
+<details>
+  <summary><h3>Extras</h3></summary>
+  <ul style="list-style: none">
+    <li><a href="https://drive.google.com/file/d/1KSBoSISRutLugk6KTDuSiBa4gBeDqJEq/view?usp=sharing">Coding Standards</a></li>
+    <li><a href="https://drive.google.com/file/d/1AKw07sTbT_UwYb3aZ7x7g0MXIf5WFRmq/view?usp=share_link">Testing Policy</a></li>
+    <li><a href="https://drive.google.com/file/d/11AeERkEWYtxJHes-1va_YyJVb93pd7MM/view?usp=drive_link">Deployment Diagram</a></li>
+    <li><a href="https://drive.google.com/file/d/1Rmy0YbLDfM-8XI6rwFb3PWAoF2UFYfOH/view?usp=drive_link">Installation Manual v1</a></li>
+    <li><a href="https://drive.google.com/drive/folders/11OvcPKfqupLnhAcZk92K7WXyILO0X1Sj?usp=share_link">User Manuals</a></li>
+  </ul>
+</details>
 
 <img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 <!---------------------------------------- DEMOS ---------------------------------------->
 <h2 id="demos"> :clapper: Demos</h2>
 
-[![Graph Demo 1](https://img.youtube.com/vi/ak3Bto3phqk/0.jpg)](https://youtu.be/ak3Bto3phqk)
+[![Graph Demo 2](https://img.youtube.com/vi/7y2TohRtZDU/0.jpg)](https://youtu.be/7y2TohRtZDU)
 
-<a href="https://docs.google.com/presentation/d/1Msz-CQ9KcR42K1iKLYVXL1sr01fHjMhBYeAO6cgmMoE/edit?usp=sharing">Demo 1 Presentation</a>
+<a href="https://drive.google.com/drive/folders/1hW7HfkvV94R4TRMGSAv_glOtFP1Ww9B9?usp=sharing">Demo Slides</a>
 
 <img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
@@ -90,10 +78,17 @@
 <img alt="" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
 <img alt="" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
 <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black ">
 </div>
 
 <img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+
+
+
+<!------------------------------------- Project Management ------------------------------------>
+
+<h2 id="project management"> 📷 Project Management</h2>
+<a href="https://github.com/orgs/COS301-SE-2023/projects/15">Project board</a>
 
 <!----------------------------------------- TEAM ---------------------------------------->
 <h2 id="team"> :handshake: Team</h2>
