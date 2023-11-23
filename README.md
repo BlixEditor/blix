@@ -26,7 +26,7 @@
 <h2 id="overview"> :cloud: Overview</h2>
 
 > Blix is a cross-platform desktop application designed for power through extensibility.
-> It provides an composable node-based system that establishes a common ground
+> It provides a composable node-based system that establishes a common ground
 > to facilitate collaborative human/AI media editing workflows.
 
 Here's the gist:
@@ -43,36 +43,21 @@ Here's the gist:
 
 <img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-<!------------------------------------ DOCUMENTATION ------------------------------------>
-<h2 id="documentation"> :blue_book: Documentation</h2>
-
-<h3>Software Requirement Specification</h3>
-<a href="https://drive.google.com/drive/folders/1GZKHobQARi-2YzsywifolR_pFYL3Cvqb?usp=sharing">SRS Documents</a>
-
-<h3>Software Architecture</h3>
-<a href="https://drive.google.com/drive/folders/1SNnfC44DCIFK5kD5LkyoEbxfRvr8g_CS?usp=sharing">Software Architectures</a>
-
-<br>
-
-<details>
-  <summary><h3>Extras</h3></summary>
-  <ul style="list-style: none">
-    <li><a href="https://drive.google.com/file/d/1KSBoSISRutLugk6KTDuSiBa4gBeDqJEq/view?usp=sharing">Coding Standards</a></li>
-    <li><a href="https://drive.google.com/file/d/1AKw07sTbT_UwYb3aZ7x7g0MXIf5WFRmq/view?usp=share_link">Testing Policy</a></li>
-    <li><a href="https://drive.google.com/file/d/11AeERkEWYtxJHes-1va_YyJVb93pd7MM/view?usp=drive_link">Deployment Diagram</a></li>
-    <li><a href="https://drive.google.com/file/d/1Rmy0YbLDfM-8XI6rwFb3PWAoF2UFYfOH/view?usp=drive_link">Installation Manual v1</a></li>
-    <li><a href="https://drive.google.com/drive/folders/11OvcPKfqupLnhAcZk92K7WXyILO0X1Sj?usp=share_link">User Manuals</a></li>
-  </ul>
-</details>
-
-<img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-
-<!---------------------------------------- DEMOS ---------------------------------------->
-<h2 id="demos"> :clapper: Demos</h2>
+<!---------------------------------------- DEMO ----------------------------------------->
+<h2 id="demos"> :clapper: Demo</h2>
 
 [![Graph Demo 2](https://img.youtube.com/vi/7y2TohRtZDU/0.jpg)](https://youtu.be/7y2TohRtZDU)
 
-<a href="https://drive.google.com/drive/folders/1hW7HfkvV94R4TRMGSAv_glOtFP1Ww9B9?usp=sharing">Demo Slides</a>
+<img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+<!------------------------------------ DOCUMENTATION ------------------------------------>
+<h2 id="documentation"> :blue_book: Documentation</h2>
+<ul style="list-style: none">
+	<li><a href="https://drive.google.com/file/d/1Rmy0YbLDfM-8XI6rwFb3PWAoF2UFYfOH/view?usp=drive_link">Installation Manual</a></li>
+	<li><a href="https://drive.google.com/drive/folders/11OvcPKfqupLnhAcZk92K7WXyILO0X1Sj?usp=share_link">User Manuals</a></li>
+	<li><a href="https://drive.google.com/file/d/1KSBoSISRutLugk6KTDuSiBa4gBeDqJEq/view?usp=sharing">Coding Standards</a></li>
+	<li><a href="https://drive.google.com/file/d/1AKw07sTbT_UwYb3aZ7x7g0MXIf5WFRmq/view?usp=share_link">Testing Policy</a></li>
+</ul>
 
 <img alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
